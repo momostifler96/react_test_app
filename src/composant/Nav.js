@@ -15,7 +15,7 @@ function Nav() {
             <ul className="navbar-nav ml-auto">
                 <div className="hori-selector"><div className="left"></div><div className="right"></div></div>
                 <li className="nav-item">
-                    <a className="nav-link" href="javascript:void(0);"><i className="fas fa-tachometer-alt"></i> Dashboard</a>
+                    <a className="nav-link" href="javascript:void(0);"><i className="fas fa-tachometer-alt"></i> Tableau de bord</a>
                 </li>
                 <li className="nav-item active">
                     <a className="nav-link" href="javascript:void(0);"><i className="far fa-address-book"></i>Address Book</a>
