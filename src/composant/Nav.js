@@ -18,7 +18,7 @@ function Nav() {
                     <a className="nav-link" href="javascript:void(0);"><i className="fas fa-tachometer-alt"></i> Tableau de bord</a>
                 </li>
                 <li className="nav-item active">
-                    <a className="nav-link" href="javascript:void(0);"><i className="far fa-address-book"></i>Address Book</a>
+                    <a className="nav-link" href="javascript:void(0);"><i className="far fa-address-book"></i>Mon compte</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="javascript:void(0);"><i className="far fa-clone"></i>Components</a>
