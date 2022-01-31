@@ -21,7 +21,7 @@ function Nav() {
                     <a className="nav-link" href="javascript:void(0);"><i className="far fa-address-book"></i>Mon compte</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="javascript:void(0);"><i className="far fa-clone"></i>Components</a>
+                    <a className="nav-link" href="javascript:void(0);"><i className="far fa-clone"></i>Composant</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="javascript:void(0);"><i className="far fa-calendar-alt"></i>Calendar</a>
